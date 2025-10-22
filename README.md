@@ -25,7 +25,7 @@ Lightweight, minimal, and aesthetic — just like your sibling banter 😎
 
 🧡 Credits
 
-Crafted by Anirban with love, laughter & code 💻
+Crafted by Anirban Chattaraj with love, laughter & code 💻
 
 Fonts from Google Fonts
 
